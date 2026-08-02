@@ -1,0 +1,10 @@
+{
+  "gameRevision": "239",
+  "runeliteVersion": "1.12.32",
+  "krispedPluginLoaderVersion": "1.0.0",
+  "preventMasterLoad": "false",
+  "preventKrispedPrayerHelper": "false",
+  "preventKrispedAio": "false",
+  "preventKrispedWalker": "false",
+  "preventKrispedTest": "false"
+}

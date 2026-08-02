@@ -1,0 +1,149 @@
+{
+  "h":
+  [
+    {
+      "n": "invokeMenuAction",
+      "c": "ek",
+      "p": "fu",
+      "m": -1612500198
+    },
+    {
+      "n": "setCheckClick",
+      "c": "eb",
+      "p": "dk",
+      "m": 1
+    },
+    {
+      "n": "setSelectedSceneTileX",
+      "c": "eb",
+      "p": "bu",
+      "m": 1
+    },
+    {
+      "n": "setSelectedSceneTileY",
+      "c": "eb",
+      "p": "bk",
+      "m": 1
+    },
+    {
+      "n": "setViewportWalking",
+      "c": "eb",
+      "p": "bw",
+      "m": 1
+    },
+    {
+      "n": "setSelectedSpellWidget",
+      "c": "ft",
+      "p": "nf",
+      "m": 169495907
+    },
+    {
+      "n": "setSelectedSpellChildIndex",
+      "c": "client",
+      "p": "ni",
+      "m": 480695369
+    },
+    {
+      "n": "setSelectedSpellItemId",
+      "c": "client",
+      "p": "nm",
+      "m": 2127909127
+    },
+    {
+      "n": "getOldNpcOverheadArray",
+      "c": "pi",
+      "p": "dc",
+      "m": 1
+    },
+    {
+      "n": "getNewNpcOverheadObject",
+      "c": "db",
+      "p": "ao",
+      "m": 1
+    },
+    {
+      "n": "getNewNpcOverheadArray",
+      "c": "xy",
+      "p": "af",
+      "m": 1
+    },
+    {
+      "n": "getNpcOverheadMethod",
+      "c": "db",
+      "p": "ai",
+      "m": -1398953315
+    },
+    {
+      "n": "isMoving",
+      "c": "du",
+      "p": "cc",
+      "m": 1538626549
+    },
+    {
+      "n": "getActorAnimationObject",
+      "c": "du",
+      "p": "cv",
+      "m": 1
+    },
+    {
+      "n": "getActorAnimationId",
+      "c": "qp",
+      "p": "af",
+      "m": 264291475
+    },
+    {
+      "n": "menuOptionsCount",
+      "c": "ww",
+      "p": "oe",
+      "m": 1968096801
+    },
+    {
+      "n": "menuParam0Array",
+      "c": "ww",
+      "p": "aa",
+      "m": 1
+    },
+    {
+      "n": "menuParam1Array",
+      "c": "ww",
+      "p": "ax",
+      "m": 1
+    },
+    {
+      "n": "menuTypesArray",
+      "c": "ww",
+      "p": "ae",
+      "m": 1
+    },
+    {
+      "n": "menuIdentifiersArray",
+      "c": "ww",
+      "p": "al",
+      "m": 1
+    },
+    {
+      "n": "menuItemIdsArray",
+      "c": "ww",
+      "p": "as",
+      "m": 1
+    },
+    {
+      "n": "menuWorldViewIdsArray",
+      "c": "ww",
+      "p": "ap",
+      "m": 1
+    },
+    {
+      "n": "menuOptionsArray",
+      "c": "ww",
+      "p": "aq",
+      "m": 1
+    },
+    {
+      "n": "menuTargetsArray",
+      "c": "ww",
+      "p": "ao",
+      "m": 1
+    }
+  ]
+}
