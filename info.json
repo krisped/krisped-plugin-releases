@@ -1,12 +1,12 @@
 {
-  "gameRevision": "240",
+  "gameRevision": 240,
   "runeliteVersion": "1.12.34.1",
-  "krispedLoaderVersion": "1.0.1",
-  "preventMasterLoad": "false",
-  "preventKrispedUtils": "false",
-  "preventKrispedPrayerHelper": "false",
-  "preventKrispedAio": "false",
-  "preventKrispedWalker": "false",
-  "preventKrispedTest": "false",
-  "preventKrispedGEBuyer": "false"
+  "krispedPluginLoaderVersion": "1.0.6",
+  "preventMasterLoad": false,
+  "preventKrispedUtils": false,
+  "preventKrispedPrayerHelper": false,
+  "preventKrispedAio": false,
+  "preventKrispedWalker": false,
+  "preventKrispedTest": false,
+  "preventKrispedGEBuyer": false
 }
