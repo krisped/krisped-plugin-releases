@@ -1,128 +1,128 @@
-[
-  {
-    "projectUrl": "https://discord.gg/JZFhwNVH85",
-    "provider": "Kotori",
-    "name": "<html><font color=#6b8af6>Kotori</font> Plugin Utils</html>",
-    "packageId": "kotoriutils",
-    "description": "Utilities needed for certain ported plugins to work.",
-    "mainClassName": "KotoriUtils",
-    "id": "htmlfontcolorbafkotorifontpluginutilshtml-plugin",
-    "releases": [
-      {
-        "date": "2026-08-05",
-        "sha512sum": "DDAC404BF37B5C17C1F2A2A12F6BBDE51DEF3FACC7022F841B4B969C37AAD58F28FB45DBABCC4693972C6A6EF6A259E692015EA7348AEB83CDAC3AAEC05DB59D",
-        "version": "1.0.7",
-        "url": "https://raw.githubusercontent.com/krisped/krisped-plugin-releases/master/release/kotoriutils-1.0.7.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/JZFhwNVH85",
-    "provider": "Kotori",
-    "name": "<html><font color=#6b8af6>KrisPed</font> AIO</html>",
-    "packageId": "krispedaio",
-    "description": "KrisPed - AIO",
-    "mainClassName": "KrisPedAIOPlugin",
-    "id": "htmlfontcolorbafkrispedfontaiohtml-plugin",
-    "releases": [
-      {
-        "date": "2026-08-05",
-        "sha512sum": "6741BA0949CB247FB1A287E2AFFEF6778F5E154CF2AC38B4B22F243C33B4FB9066E49467C6939C43B09928D1E2A3723E100FDD4A38BE99AE5DFAB24366E94362",
-        "version": "1.0.9",
-        "url": "https://raw.githubusercontent.com/krisped/krisped-plugin-releases/master/release/krispedaio-1.0.9.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/JZFhwNVH85",
-    "provider": "Kotori",
-    "name": "<html><font color=#6b8af6>KrisPed</font> - GE Buyer</html>",
-    "packageId": "krispedgebuyer",
-    "description": "KrisPed - GE Buyer",
-    "mainClassName": "KrisPedGEBuyerPlugin",
-    "id": "htmlfontcolorbafkrispedfontgebuyerhtml-plugin",
-    "releases": [
-      {
-        "date": "2026-08-05",
-        "sha512sum": "209BB636E5D3440C986E63169E0B45C3826E93ECD140CFA03E0B0A75C9C8236BB44467A29317864CFC9E3B7A37DE1A6C7641A7C81E8B2188B66B0D621789DC1E",
-        "version": "1.0.13",
-        "url": "https://raw.githubusercontent.com/krisped/krisped-plugin-releases/master/release/krispedgebuyer-1.0.13.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/JZFhwNVH85",
-    "provider": "Kotori",
-    "name": "<html><font color=#6b8af6>KrisPed</font> Plugin Loader</html>",
-    "packageId": "krispedpluginloader",
-    "description": "Loads plugins developed by KrisPed",
-    "mainClassName": "KrisPedPluginLoader",
-    "id": "htmlfontcolorbafkrispedfontpluginloaderhtml-plugin",
-    "releases": [
-      {
-        "date": "2026-08-05",
-        "sha512sum": "6A8C8A31A635B1ADE993F7E96551A128AE46979B014366FD85EF95C57E6E17EFEA2545539932648E718875987D2389D112CE6FFCE09A082A61FB4D18772E440E",
-        "version": "1.0.9",
-        "url": "https://raw.githubusercontent.com/krisped/krisped-plugin-releases/master/release/krispedpluginloader-1.0.9.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/JZFhwNVH85",
-    "provider": "Kotori",
-    "name": "<html><font color=#6b8af6>KrisPed</font> Prayerhelper</html>",
-    "packageId": "krispedprayerhelper",
-    "description": "KrisPed prayer helper plugin",
-    "mainClassName": "KrisPedPrayerHelperPlugin",
-    "id": "htmlfontcolorbafkrispedfontprayerhelperhtml-plugin",
-    "releases": [
-      {
-        "date": "2026-08-05",
-        "sha512sum": "5F7CEC5310BDF5DD2C4F456FF9A4EC9C69A4F64325349FCD418F94735148DD1D66B779F6C402A5D56298AC60122AB65CD96CA99B99C65B23906788B1A4949FC9",
-        "version": "1.0.6",
-        "url": "https://raw.githubusercontent.com/krisped/krisped-plugin-releases/master/release/krispedprayerhelper-1.0.6.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/JZFhwNVH85",
-    "provider": "Kotori",
-    "name": "<html><font color=#6b8af6>KrisPed</font> Test</html>",
-    "packageId": "krispedtest",
-    "description": "Krisped Test",
-    "mainClassName": "KrispedTestPlugin",
-    "id": "htmlfontcolorbafkrispedfonttesthtml-plugin",
-    "releases": [
-      {
-        "date": "2026-08-05",
-        "sha512sum": "9DB0EDE76F7939A6C973E4D912FBAD8D7C7A6766B75FE696D3035B2ECBCE8C20FC0E25FA9E89FCF5343C0192F5AF6A0341B530316CE8DBF18E9A3A30AD5BD0D6",
-        "version": "1.0.8",
-        "url": "https://raw.githubusercontent.com/krisped/krisped-plugin-releases/master/release/krispedtest-1.0.8.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/JZFhwNVH85",
-    "provider": "Kotori",
-    "name": "<html><font color=#6b8af6>KrisPed</font> Walker</html>",
-    "packageId": "krispedwalker",
-    "description": "KrisPed - Walker",
-    "mainClassName": "KrisPedWalkerPlugin",
-    "id": "htmlfontcolorbafkrispedfontwalkerhtml-plugin",
-    "releases": [
-      {
-        "date": "2026-08-05",
-        "sha512sum": "24D50022965A5809A9F401C114D0ACB10F868FEA28FD9E075AE8C8A301F31EFB90921278BD3B9381C89510C3A0C75F81EC215A238B2F55ECF7DDDC6988D9A8EB",
-        "version": "1.0.2",
-        "url": "https://raw.githubusercontent.com/krisped/krisped-plugin-releases/master/release/krispedwalker-1.0.2.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  }
+﻿[
+    {
+        "projectUrl":  "https://discord.gg/JZFhwNVH85",
+        "provider":  "Kotori",
+        "name":  "\u003chtml\u003e\u003cfont color=#6b8af6\u003eKotori\u003c/font\u003e Plugin Utils\u003c/html\u003e",
+        "packageId":  "kotoriutils",
+        "description":  "Utilities needed for certain ported plugins to work.",
+        "mainClassName":  "KotoriUtils",
+        "id":  "\u003chtml\u003e\u003cfontcolorbaf\u003ekotori\u003c/font\u003epluginutils\u003c/html\u003e-plugin",
+        "releases":  [
+                         {
+                             "date":  "2026-08-06",
+                             "sha512sum":  "54D155CF47F1D00D96C3C83EFE312564EFD330755C8E1236F6FBD26E98944A30A45611AA4545E694192BF0B0A3E835B479038B7ECEE7492EC68E8A7C2409D064",
+                             "version":  "1.3.54",
+                             "url":  "https://raw.githubusercontent.com/krisped/krisped-plugin-releases/master/release/kotoriutils-1.3.54.jar",
+                             "requires":  "^1.0.0"
+                         }
+                     ]
+    },
+    {
+        "projectUrl":  "https://discord.gg/JZFhwNVH85",
+        "provider":  "Kotori",
+        "name":  "\u003chtml\u003e\u003cfont color=#6b8af6\u003eKrisPed\u003c/font\u003e AIO\u003c/html\u003e",
+        "packageId":  "krispedaio",
+        "description":  "KrisPed - AIO",
+        "mainClassName":  "KrisPedAIOPlugin",
+        "id":  "\u003chtml\u003e\u003cfontcolorbaf\u003ekrisped\u003c/font\u003eaio\u003c/html\u003e-plugin",
+        "releases":  [
+                         {
+                             "date":  "2026-08-06",
+                             "sha512sum":  "957181B7F39700B8CD42C322DD48E5E0F9BF07F7EC85225DAF0155132DB1FEA9AA92AEC80AB3E69539ED3351C64AB6E98685FD2F0E2C41752B118114B7AFA279",
+                             "version":  "1.0.11",
+                             "url":  "https://raw.githubusercontent.com/krisped/krisped-plugin-releases/master/release/krispedaio-1.0.11.jar",
+                             "requires":  "^1.0.0"
+                         }
+                     ]
+    },
+    {
+        "projectUrl":  "https://discord.gg/JZFhwNVH85",
+        "provider":  "Kotori",
+        "name":  "\u003chtml\u003e\u003cfont color=#6b8af6\u003eKrisPed\u003c/font\u003e - GE Buyer\u003c/html\u003e",
+        "packageId":  "krispedgebuyer",
+        "description":  "KrisPed - GE Buyer",
+        "mainClassName":  "KrisPedGEBuyerPlugin",
+        "id":  "\u003chtml\u003e\u003cfontcolorbaf\u003ekrisped\u003c/font\u003e-gebuyer\u003c/html\u003e-plugin",
+        "releases":  [
+                         {
+                             "date":  "2026-08-06",
+                             "sha512sum":  "98141A64CD547758D5E2AFA7362C18E0AD98D16ED5F63E1DA58F2B066E0C45060A3173C2269633DCC4B983C0DB85CB9E1876ECB9E61211D9079D22FD86716B8D",
+                             "version":  "1.0.15",
+                             "url":  "https://raw.githubusercontent.com/krisped/krisped-plugin-releases/master/release/krispedgebuyer-1.0.15.jar",
+                             "requires":  "^1.0.0"
+                         }
+                     ]
+    },
+    {
+        "projectUrl":  "https://discord.gg/JZFhwNVH85",
+        "provider":  "Kotori",
+        "name":  "\u003chtml\u003e\u003cfont color=#6b8af6\u003eKrisPed\u003c/font\u003e Plugin Loader\u003c/html\u003e",
+        "packageId":  "krispedpluginloader",
+        "description":  "Loads plugins developed by KrisPed",
+        "mainClassName":  "KrisPedPluginLoader",
+        "id":  "\u003chtml\u003e\u003cfontcolorbaf\u003ekrisped\u003c/font\u003epluginloader\u003c/html\u003e-plugin",
+        "releases":  [
+                         {
+                             "date":  "2026-08-06",
+                             "sha512sum":  "1EA1C5A4B7AA99AB0AB1BC246B87460B2965F99752D9A81572EE22DA660FFE035B14374E16388EC5902D1608C4D5EF7DF52781E7DE781FD8443CEFAAFA0DB03C",
+                             "version":  "1.0.11",
+                             "url":  "https://raw.githubusercontent.com/krisped/krisped-plugin-releases/master/release/krispedpluginloader-1.0.11.jar",
+                             "requires":  "^1.0.0"
+                         }
+                     ]
+    },
+    {
+        "projectUrl":  "https://discord.gg/JZFhwNVH85",
+        "provider":  "Kotori",
+        "name":  "\u003chtml\u003e\u003cfont color=#6b8af6\u003eKrisPed\u003c/font\u003e Prayerhelper\u003c/html\u003e",
+        "packageId":  "krispedprayerhelper",
+        "description":  "KrisPed prayer helper plugin",
+        "mainClassName":  "KrisPedPrayerHelperPlugin",
+        "id":  "\u003chtml\u003e\u003cfontcolorbaf\u003ekrisped\u003c/font\u003eprayerhelper\u003c/html\u003e-plugin",
+        "releases":  [
+                         {
+                             "date":  "2026-08-06",
+                             "sha512sum":  "713F50AB42E6C601D3E48516CE0148F524B1897BAE36FF2C8D5EE576FA06E98A71B4BA61BC9186A84DD2D7711ACF0D261B441D1E8DC571D9CD3E6579AA36B117",
+                             "version":  "1.0.8",
+                             "url":  "https://raw.githubusercontent.com/krisped/krisped-plugin-releases/master/release/krispedprayerhelper-1.0.8.jar",
+                             "requires":  "^1.0.0"
+                         }
+                     ]
+    },
+    {
+        "projectUrl":  "https://discord.gg/JZFhwNVH85",
+        "provider":  "Kotori",
+        "name":  "\u003chtml\u003e\u003cfont color=#6b8af6\u003eKrisPed\u003c/font\u003e Test\u003c/html\u003e",
+        "packageId":  "krispedtest",
+        "description":  "Krisped Test",
+        "mainClassName":  "KrispedTestPlugin",
+        "id":  "\u003chtml\u003e\u003cfontcolorbaf\u003ekrisped\u003c/font\u003etest\u003c/html\u003e-plugin",
+        "releases":  [
+                         {
+                             "date":  "2026-08-06",
+                             "sha512sum":  "59E1A5BED0D7FB4C442F84AB4E57929AD5BE820172FFFBEEE5DC2C244084773142E24F548D2C6D5C666752F77F697457F970846CB5FE0D5E6828316ED2CC1EA1",
+                             "version":  "1.0.10",
+                             "url":  "https://raw.githubusercontent.com/krisped/krisped-plugin-releases/master/release/krispedtest-1.0.10.jar",
+                             "requires":  "^1.0.0"
+                         }
+                     ]
+    },
+    {
+        "projectUrl":  "https://discord.gg/JZFhwNVH85",
+        "provider":  "Kotori",
+        "name":  "\u003chtml\u003e\u003cfont color=#6b8af6\u003eKrisPed\u003c/font\u003e Walker\u003c/html\u003e",
+        "packageId":  "krispedwalker",
+        "description":  "KrisPed-Walker",
+        "mainClassName":  "KrisPedWalkerPlugin",
+        "id":  "\u003chtml\u003e\u003cfontcolorbaf\u003ekrisped\u003c/font\u003ewalker\u003c/html\u003e-plugin",
+        "releases":  [
+                         {
+                             "date":  "2026-08-06",
+                             "sha512sum":  "596476DC5EC3BFCD8CC19D143E09E3DB3E345029A3D2CF2972D276F3F6315C62B94A50A2A0AD35290839B4D1E52A52455A7E1E5A4AE7CF14E86F4F9FAE7C1CBA",
+                             "version":  "1.0.11",
+                             "url":  "https://raw.githubusercontent.com/krisped/krisped-plugin-releases/master/release/krispedwalker-1.0.11.jar",
+                             "requires":  "^1.0.0"
+                         }
+                     ]
+    }
 ]
