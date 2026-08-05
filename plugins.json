@@ -64,7 +64,7 @@
         "releases":  [
                          {
                              "date":  "2026-08-06",
-                             "sha512sum":  "1EA1C5A4B7AA99AB0AB1BC246B87460B2965F99752D9A81572EE22DA660FFE035B14374E16388EC5902D1608C4D5EF7DF52781E7DE781FD8443CEFAAFA0DB03C",
+                             "sha512sum":  "82DA37B772779BBD6644A7322152A8C5BB54606B93553BB5AC815CA23E2345B898831C590D8EE26DF3ACD2FF8CB4E449C244E56DE942BE086FB08E470DA69842",
                              "version":  "1.0.11",
                              "url":  "https://raw.githubusercontent.com/krisped/krisped-plugin-releases/master/release/krispedpluginloader-1.0.11.jar",
                              "requires":  "^1.0.0"
