@@ -8,5 +8,6 @@
   "preventKrispedAio": false,
   "preventKrispedWalker": false,
   "preventKrispedTest": false,
-  "preventKrispedGEBuyer": false
+  "preventKrispedGEBuyer": false,
+  "preventKrispedCombatHelper": false
 }
