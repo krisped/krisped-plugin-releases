@@ -10,6 +10,5 @@
   "preventKrispedTest": false,
   "preventKrispedGEBuyer": false,
   "preventKrispedCombatHelper": false,
-  "preventKrispedLoadouts": false,
   "disabledPlugins": []
 }
