@@ -1,7 +1,7 @@
 {
   "gameRevision": 240,
   "runeliteVersion": "1.12.36",
-  "krispedPluginLoaderVersion": "1.0.20",
+  "krispedPluginLoaderVersion": "1.0.22",
   "preventMasterLoad": false,
   "preventKrispedUtils": false,
   "preventKrispedPrayerHelper": false,
@@ -10,5 +10,6 @@
   "preventKrispedTest": false,
   "preventKrispedGEBuyer": false,
   "preventKrispedCombatHelper": false,
+  "preventKrispedLoadouts": false,
   "disabledPlugins": []
 }
