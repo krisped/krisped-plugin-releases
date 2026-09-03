@@ -10,25 +10,25 @@
     {
       "n": "setCheckClick",
       "c": "ez",
-      "p": "bi",
+      "p": "cz",
       "m": 1
     },
     {
       "n": "setSelectedSceneTileX",
       "c": "ez",
-      "p": "rs",
+      "p": "bw",
       "m": 1
     },
     {
       "n": "setSelectedSceneTileY",
       "c": "ez",
-      "p": "yn",
+      "p": "bb",
       "m": 1
     },
     {
       "n": "setViewportWalking",
       "c": "ez",
-      "p": "cz",
+      "p": "bi",
       "m": 1
     },
     {
@@ -78,6 +78,12 @@
       "c": "dh",
       "p": "db",
       "m": -1798356091
+    },
+    {
+      "n": "isMenuOpen",
+      "c": "client",
+      "p": "ns",
+      "m": 1
     },
     {
       "n": "getActorAnimationObject",
