@@ -80,12 +80,6 @@
       "m": -1798356091
     },
     {
-      "n": "isMenuOpen",
-      "c": "client",
-      "p": "ns",
-      "m": 1
-    },
-    {
       "n": "getActorAnimationObject",
       "c": "dh",
       "p": "cn",
@@ -94,7 +88,7 @@
     {
       "n": "getActorAnimationId",
       "c": "qr",
-      "p": "ax",
+      "p": "ag",
       "m": 1684838611
     },
     {
@@ -106,37 +100,37 @@
     {
       "n": "menuParam0Array",
       "c": "wz",
-      "p": "ac",
+      "p": "ae",
       "m": 1
     },
     {
       "n": "menuParam1Array",
       "c": "wz",
-      "p": "ax",
+      "p": "ab",
       "m": 1
     },
     {
       "n": "menuTypesArray",
       "c": "wz",
-      "p": "as",
+      "p": "ag",
       "m": 1
     },
     {
       "n": "menuIdentifiersArray",
       "c": "wz",
-      "p": "ab",
+      "p": "as",
       "m": 1
     },
     {
       "n": "menuItemIdsArray",
       "c": "wz",
-      "p": "ae",
+      "p": "ax",
       "m": 1
     },
     {
       "n": "menuWorldViewIdsArray",
       "c": "wz",
-      "p": "ag",
+      "p": "ac",
       "m": 1
     },
     {
