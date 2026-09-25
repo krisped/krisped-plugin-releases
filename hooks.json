@@ -26,6 +26,18 @@
       "m": 1
     },
     {
+      "n": "setHoveredSceneTileX",
+      "c": "ez",
+      "p": "bo",
+      "m": 1
+    },
+    {
+      "n": "setHoveredSceneTileY",
+      "c": "ez",
+      "p": "bu",
+      "m": 1
+    },
+    {
       "n": "setViewportWalking",
       "c": "ez",
       "p": "bi",
